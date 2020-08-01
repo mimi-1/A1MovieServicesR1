@@ -1,0 +1,16 @@
+com\movie\moviesoapservice\CorsFilter.class
+com\movie\moviesoapservice\handlers\DisneyHandler.class
+com\movie\moviesoapservice\controllers\exceptions\IllegalOrphanException.class
+com\movie\moviesoapservice\controllers\MoviesPeopleJpaController.class
+com\movie\moviesoapservice\tests\JPATest.class
+com\movie\moviesoapservice\entities\MoviesPeople.class
+com\movie\moviesoapservice\JAXRSConfiguration.class
+com\movie\moviesoapservice\controllers\exceptions\NonexistentEntityException.class
+com\movie\moviesoapservice\controllers\MoviesJpaController.class
+com\movie\moviesoapservice\entities\Movies.class
+com\movie\moviesoapservice\entities\People.class
+com\movie\moviesoapservice\resources\JavaEE8Resource.class
+com\movie\moviesoapservice\entities\MoviesPeoplePK.class
+com\movie\moviesoapservice\controllers\PeopleJpaController.class
+com\movie\moviesoapservice\services\MovieService.class
+com\movie\moviesoapservice\controllers\exceptions\PreexistingEntityException.class

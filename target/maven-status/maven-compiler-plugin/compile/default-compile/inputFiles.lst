@@ -1,0 +1,16 @@
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\resources\JavaEE8Resource.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\entities\People.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\handlers\DisneyHandler.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\controllers\MoviesPeopleJpaController.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\entities\MoviesPeople.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\entities\Movies.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\controllers\PeopleJpaController.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\controllers\MoviesJpaController.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\tests\JPATest.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\controllers\exceptions\NonexistentEntityException.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\JAXRSConfiguration.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\services\MovieService.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\CorsFilter.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\entities\MoviesPeoplePK.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\controllers\exceptions\IllegalOrphanException.java
+C:\projects\NetBeanProjects\MovieSoapService\src\main\java\com\movie\moviesoapservice\controllers\exceptions\PreexistingEntityException.java
